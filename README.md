@@ -14,8 +14,8 @@ Technologies used:
 * JavaScript
 * jQuery
 
-Game link: https://sammersheikh.github.io/stickman/
-
+Game link: https://sammersheikh.github.io/stickman/target="_blank"
+  
 
 Instructions:
 1. Click 'Generate Word'
