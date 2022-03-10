@@ -14,7 +14,7 @@ Technologies used:
 * JavaScript
 * jQuery
 
-Game link: https://sammersheikh.github.io/stickman/target="_blank"
+Game link: https://sammersheikh.github.io/stickman/
   
 
 Instructions:
