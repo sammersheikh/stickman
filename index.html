@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Monda&display=swap" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script defer src="js/script.js"></script>
+    <link rel="stylesheet" href="css/style.css">
+    <title>stickman</title>
+</head>
+<body>
+    <div class="grid-container">
+        <div class="grid-item grid-item-1">  
+            <h1 class="header">stickman</h1>
+        </div>
+        <div class="stickman">  
+            <h2>Wins: <span id="wins"></span></h2>
+        <h2>Losses: <span id="losses"></span></h2>          
+            <div id="divLetters">
+                <h3 id="letters">Guessed Letters: <span id="guessedLetters"> </span></h3>
+            </div>
+        </div>
+        <div class="grid-item grid-item-3">
+        <div class="words">
+            <h1 class="underscore">Click Generate Word</h1>
+        </div>
+            <input type="text" id="input" placeholder="Enter letter" maxlength = "1" onkeypress="return (event.charCode > 64 && 
+            event.charCode < 91) || (event.charCode > 96 && event.charCode < 123)" name="Guess!">
+            <button id="submitBtn" class="button-28">Submit</button>
+            <button id="generateBtn" class="button-28">Generate Word</button>
+        </div>
+    </div>
+</body>
+</html>
