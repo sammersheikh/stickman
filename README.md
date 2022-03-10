@@ -21,3 +21,7 @@ Instructions:
 1. Click 'Generate Word'
 2. Start guessing letters
 3. Click 'Generate Word' to reset and start a new game
+
+Icebox items:
+1. Allow entire word to be entered instead of letter by letter
+2. Make experience on mobile better
