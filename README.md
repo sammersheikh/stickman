@@ -18,5 +18,6 @@ Game link: https://sammersheikh.github.io/stickman/
 
 
 Instructions:
-1. Click 'start game' button
-2. 
+1. Click 'Generate Word'
+2. Start guessing letters
+3. Click 'Generate Word' to reset and start a new game
