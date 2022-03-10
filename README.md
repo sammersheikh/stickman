@@ -3,13 +3,14 @@
 Screenshots of game:
 
 
+
 Technologies used:
 * HTML
 * CSS
 * JavaScript
 * jQuery
 
-Game link:
+Game link: https://sammersheikh.github.io/stickman/
 
 
 Instructions:
