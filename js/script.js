@@ -60,6 +60,7 @@ function generateWord() {
     restartGame()
     showLetters()
     displayIntro()
+    $('#input').val('');
 }
 
 // Get input from user function (on event listener for submit button)
