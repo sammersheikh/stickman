@@ -22,6 +22,8 @@ Instructions:
 2. Start guessing letters
 3. Click 'Generate Word' to reset and start a new game
 
+Note: When stick figure is fully displayed, you lose.
+
 Icebox items:
 1. Allow entire word to be entered instead of letter by letter
 2. Make experience on mobile better
