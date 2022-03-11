@@ -1,4 +1,4 @@
-<stickman> game (hangman alternative)
+stickman (hangman alternative)
 
 Screenshots of game:
 
